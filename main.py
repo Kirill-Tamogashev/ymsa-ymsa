@@ -1,0 +1,6 @@
+from sklearn.ensemble import RandomForestRegressor
+
+
+## TODO: THERE MAST BE SOME CODE THAT 
+## LAUNCHES THE RANDOM FOREST REGRESSOR
+## BUT I AM LASY TO WRITE IT
